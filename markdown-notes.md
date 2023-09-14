@@ -4,7 +4,7 @@
 
 ## Syntax
 ### Headings
-Headings are created using the `#` symbol in front of the text you want to create as a heading. There are 6 levels of headings, denoted by the number of `#` symobls in front the text. The largest heading is created using one `#` symbol and the smallest heading is created using 6 `#` symbols.
+Headings are created using the `#` symbol in front of the text you want to create as a heading. There are 6 levels of headings, denoted by the number of `#` symobls in front of the text. The largest heading is created using one `#` symbol and the smallest heading is created using 6 `#` symbols.
 >```# Heading``` creates the largest heading:
 ># Heading
 >```###### Heading``` creates the smallest heading:
@@ -12,15 +12,19 @@ Headings are created using the `#` symbol in front of the text you want to creat
 #
 ### Text
 Text can be formatted in several different ways to bring attention to content or create a desired effect.
-#### Bold
-To make text bold you use either a double asterick `**` or double underscore `__` before and after the text. While either method can be used, it is recommended to only use the double astericks `**` because of the way some applications process underscores `__` might result in your content being displayed incorrectly.
+#### **Bold**
+To make text bold you use either a double asterisk `**` or double underscore `__` before and after the text. While either method can be used, it is recommended to only use the double asterisks `**` because of the way some applications process underscores `__` might result in your content being displayed incorrectly.
 >```**Bolded Text**```
 >
 >**Bolded Text**
-#### Italics
+#### *Italics*
+To make text italicized you use either an asterisk `*` or underscore `_` before and after the text. While either method can be used, it is recommended to only use the asterisk `*` because of the way some applications process underscores `_` might result in your content being displayed incorrectly.
+>```*Italicized Text*```
+>
+>*Italicized Text*
 #
 ### Links
-A link is created in two parts. First the content you want to be displayed for link is wrapped in square brackets `[]`. This is immediately followed by where the link should go wrapped in parantheses `()`.
+A link is created in two parts. First the content you want to be displayed for link is wrapped in square brackets `[]`. This is immediately followed by where the link should go wrapped in parentheses `()`.
 >```[This is a link to this page](https://kaylubh.github.io/reading-notes/markdown-notes.html)```
 >
 >[This is a link to this page](https://kaylubh.github.io/reading-notes/markdown-notes.html)
@@ -28,13 +32,13 @@ A link is created in two parts. First the content you want to be displayed for l
 #
 ### Lists
 #### Unordered (Bulleted)
-An undordered, or bulluted, list is created using the `-` dash before the content on each bullet in the list.
+An unordered, or bulleted, list is created using the `-` dash, `*` asterisk, or `+` plus symbols and a space before the content on each bullet in the list.
 >```
->- Item 1
->- Item 2
->- Item 3
+>- Item 1   * Item 1    + Item 1
+>- Item 2   * Item 2    + Item 2
+>- Item 3   * Item 3    + Item 3
 >```
->- Item 1
+>- Item 1   
 >- Item 2
 >- Item 3
 #### Ordered (Numbered)
