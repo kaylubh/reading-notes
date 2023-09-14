@@ -11,7 +11,12 @@ Headings are created using the `#` symbol in front of the text you want to creat
 >###### Heading
 #
 ### Text
+Text can be formatted in several different ways to bring attention to content or create a desired effect.
 #### Bold
+To make text bold you use either a double asterick `**` or double underscore `__` before and after the text. While either method can be used, it is recommended to only use the double astericks `**` because of the way some applications process underscores `__` might result in your content being displayed incorrectly.
+>```**Bolded Text**```
+>
+>**Bolded Text**
 #### Italics
 #
 ### Links
