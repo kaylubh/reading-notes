@@ -7,7 +7,7 @@
 Headings are created using the `#` symbol in front of the text you want to create as a heading. There are 6 levels of headings, denoted by the number of `#` symobls in front the text. The largest heading is created using one `#` symbol and the smallest heading is created using 6 `#` symbols.
 >```# Heading``` creates the largest heading:
 ># Heading
->```###### Heading``` creates the smallests heading:
+>```###### Heading``` creates the smallest heading:
 >###### Heading
 #
 ### Text
