@@ -1,5 +1,8 @@
 # ***Reading Notes***
 
+## Notes
+[Markdown](/markdown-notes.md)
+
 ## **Growth Mindset**
 ### What It Is to Me
 I don't like long winded paragraphs so lets keep this *short* and *sweet*. 
