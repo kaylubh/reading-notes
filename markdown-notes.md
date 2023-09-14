@@ -19,8 +19,29 @@ A link is created in two parts. First the content you want to be displayed for l
 >```[This is a link to this page](https://kaylubh.github.io/reading-notes/markdown-notes.html)```
 >
 >[This is a link to this page](https://kaylubh.github.io/reading-notes/markdown-notes.html)
+>
 #
 ### Lists
+#### Unordered (Bulleted)
+An undordered, or bulluted, list is created using the `-` dash before the content on each bullet in the list.
+>```
+>- Item 1
+>- Item 2
+>- Item 3
+>```
+>- Item 1
+>- Item 2
+>- Item 3
+#### Ordered (Numbered)
+An ordered, or numbered, list is created using a number and a period `1.` before the content.
+>```
+>1. Item 1
+>2. Item 2
+>3. Item 3
+>```
+>1. Item 1
+>2. Item 2
+>3. Item 3
 #
 #
 What symbol will create a heading in Markdown?
