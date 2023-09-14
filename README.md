@@ -17,6 +17,7 @@ I don't like long winded paragraphs so lets keep this *short* and *sweet*.
 ## **About Me**
 > **Caleb Hemphill**
 *He/Him*
+
 ### Bio
 Welcome to my little notes page! I live in the Raleigh, North Carolina area or you may also know the greater metropolitan area as the Research Triange Park (RTP). Currently employed in the retail industry while I work towards a long held passion for web and software development as a student at [Code Fellows](https://www.codefellows.org/) and a little self-study. Looking forward to furthering my learning and applying my newfound skills in a position with which I can use the infinite potential of computing to leave a positive impact on humanity.
 ### Projects
