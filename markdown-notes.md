@@ -10,7 +10,6 @@ Headings are created using the `#` symbol in front of the text you want to creat
 >```###### Heading``` creates the smallest heading:
 >###### Heading
 
-#
 ### Text
 Text can be formatted in several different ways to bring attention to content or create a desired effect.
 #### **Bold**
@@ -25,7 +24,6 @@ To make text italicized you use either an asterisk `*` or underscore `_` before 
 >
 >*Italicized Text*
 
-#
 ### Links
 A link is created in two parts. First the content you want to be displayed for link is wrapped in square brackets `[]`. This is immediately followed by where the link should go wrapped in parentheses `()`.
 >```[This is a link to this page](https://kaylubh.github.io/reading-notes/markdown-notes.html)```
@@ -33,7 +31,6 @@ A link is created in two parts. First the content you want to be displayed for l
 >[This is a link to this page](https://kaylubh.github.io/reading-notes/markdown-notes.html)
 >
 
-#
 ### Lists
 #### Unordered (Bulleted)
 An unordered, or bulleted, list is created using the `-` dash, `*` asterisk, or `+` plus symbols and a space before the content on each bullet in the list.
@@ -56,11 +53,3 @@ An ordered, or numbered, list is created using a number and a period `1.` before
 >1. Item 1
 >2. Item 2
 >3. Item 3
-
-#
-What symbol will create a heading in Markdown?
-How many do you need to create the largest heading?
-How many do you need to create the smallest heading?
-When making text bold or italicized for emphasis, it is best practice to use which symbol?
-How do you create a link with Markdown?
-What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
