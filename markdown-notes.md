@@ -31,7 +31,7 @@ To make text italicized you use either an asterisk `*` or underscore `_` before 
 >*Italicized Text*
 
 ### Links
-A link is created in two parts. First the content you want to be displayed for link is wrapped in square brackets `[]`. This is immediately followed by where the link should go wrapped in parentheses `()`.
+A link is created in two parts. First the content you want to be displayed for link is wrapped in square brackets `[]`. This is immediately followed by where the link should go wrapped in parentheses `()`. Do not add a space between the square brackets `[]` and parentheses `()` or it will be rendered as two separate strings of text instead of a link.
 >```[This is a link to this page](https://kaylubh.github.io/reading-notes/markdown-notes.html)```
 >
 >[This is a link to this page](https://kaylubh.github.io/reading-notes/markdown-notes.html)
