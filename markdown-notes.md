@@ -1,10 +1,15 @@
 # Markdown
 
 ## About
+### What is it?
+Markdown is a lightweight markup language used to create simple, static documents or webpages. Markup formatting is added to text using a text or code editor which is then rendered to display the formatting. Markdown differs from a WYSIWYG (What You See Is What You Get Editor) since formatting is added directly in the text versus using tools to apply formatting to the content.
+
+### Why use it?
+Markdown is a flexible and independent method which can be used to create a variety of things such as websites, books, webpages, and documentation. Markdown can be used universally on any editor and can be easily displayed in multiple applications. Unlike documents created in other editors which are often created in a proprietary formats, documents created in Markdown are always viewable and readable even without the existence of a particular application.
 
 ## Syntax
 ### Headings
-Headings are created using the `#` symbol in front of the text you want to create as a heading. There are 6 levels of headings, denoted by the number of `#` symobls in front of the text. The largest heading is created using one `#` symbol and the smallest heading is created using 6 `#` symbols.
+Headings are created using the `#` symbol in front of the text you want to create as a heading. There are 6 levels of headings, denoted by the number of `#` symbols in front of the text. The largest heading is created using one `#` symbol and the smallest heading is created using 6 `#` symbols.
 >```# Heading``` creates the largest heading:
 ># Heading
 >```###### Heading``` creates the smallest heading:
