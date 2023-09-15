@@ -22,6 +22,7 @@ To make text bold you use either a double asterisk `**` or double underscore `__
 >```**Bolded Text**```
 >
 >**Bolded Text**
+
 #### *Italics*
 
 To make text italicized you use either an asterisk `*` or underscore `_` before and after the text. While either method can be used, it is recommended to only use the asterisk `*` because of the way some applications process underscores `_` might result in your content being displayed incorrectly.
