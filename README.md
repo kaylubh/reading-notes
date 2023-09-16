@@ -2,7 +2,7 @@
 
 ## Notes
 
-[Markdown](/markdown-notes.md)
+[Markdown](/markdown-notes.md)  | [The Terminal](/terminal-notes.md)
 
 ## **Growth Mindset**
 
