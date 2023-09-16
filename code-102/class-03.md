@@ -1,14 +1,14 @@
 # Git
 
-Git is a distributed versional control system used to allow developers work collaboratively on the same files or code. It does this by storing files in a remote repository which can be accessed and *cloned* locally. Changes are monitored and *committed* to the repository locally before *pushed* to the remote repository. This allows for multiple users to to work on the same files and quickly synchronize changes. Git also improves the quality of version control by eliminating the need to self-manage versions on files and folders.
+Git is a distributed version control system used to allow developers to work collaboratively on the same files or code. It does this by storing files in a remote repository which can be accessed and *cloned* locally. Changes are monitored and *committed* to the repository locally before being *pushed* to the remote repository. This allows for multiple users to to work on the same files and quickly synchronize changes. Git also improves the quality of version control by eliminating the need to self-manage versions on files and folders.
 
 ## Version Control
 
-Version control is a system to manage versions of files and folders. Version control tracks when and what changes were made. Additionally, it allows you to view prior versions and revert to them.
+Version control is a system to manage versions of files and folders. Version control tracks when and what changes were made and by whom. Additionally, it allows you to view prior versions and revert back to them.
 
 ## Cloning
 
-*Cloning* in Git is used to create a copy of a remote repository, such as GitHub, to your local computer. When using Git the command to clone a repository is `git clone "repository-location"`.
+*Cloning* in Git is used to create a copy of a remote repository, such as one hosted on GitHub, to your local computer. When using Git the command to clone a repository is `git clone "repository-location"`.
 
 ## ACP
 
@@ -24,4 +24,4 @@ After you have staged the files using *add* command, it is time to *commit* the 
 
 ### Push
 
-Lastly, once you have *added* and *committed* the changes, you need to *push* to origin. The origin is the remote repository you cloned from. To do this you use the command `git push origin main`. In this example "main" is the name of the branch being *pushed* to but would be changed if you were using a different branch.
+Lastly, once you have *added* and *committed* the changes, you need to *push* to origin. The origin is the remote repository you cloned from. To do this you use the command `git push origin main`. In this example "main" is the name of the branch being *pushed* to but would change if you were using a different branch.
