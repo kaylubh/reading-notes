@@ -1,8 +1,8 @@
 # ***Reading Notes***
 
-This site is a collection of my notes from classes at [Code Fellows](https://www.codefellows.org/) to for reference.
+This site is a collection of my notes from classes at [Code Fellows](https://www.codefellows.org/) for reference.
 
-[Code 102](#code-102-reading-notes)
+[Code 102](#code-102-reading-notes) | [Code 201](#code-201-reading-notes) | [Professional Development](#professional-development) | [About Me](#about-me)
 
 ## Contents
 
@@ -35,10 +35,13 @@ This site is a collection of my notes from classes at [Code Fellows](https://www
 14. [Class 14](/code-102/class-14.md)
 15. [Class 15](/code-102/class-15.md)
 
+### Professional Development
+
+1. [Growth Mindset](/professional-development/growth-mindset.md)
+
 ## **About Me**
 
-> **Caleb Hemphill**
-*He/Him*
+### **Caleb Hemphill** (*He/Him*)
 
 ### Bio
 
