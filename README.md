@@ -1,28 +1,39 @@
 # ***Reading Notes***
 
-## Notes
+This site is a collection of my notes from classes at [Code Fellows](https://www.codefellows.org/) to for reference.
 
-[Markdown](/markdown-notes.md)  | [The Terminal](/terminal-notes.md)
+[Code 102](#code-102-reading-notes)
 
-## **Growth Mindset**
+## Contents
 
-### What It Is to Me
+### Code 102 Reading Notes
 
-I don't like long winded paragraphs so lets keep this *short* and *sweet*.
+1. [Markdown](/code-102/class-01.md)
+2. [Terminal](/code-102/class-02.md)
+3. [Git](/code-102/class-03.md)
+4. [Class 4](/code-102/class-04.md)
+5. [Class 5](/code-102/class-05.md)
+6. [Class 6](/code-102/class-06.md)
+7. [Class 7](/code-102/class-07.md)
+8. [Class 8](/code-102/class-08.md)
 
-#### A Growth Mindset is
+### Code 201 Reading Notes
 
-- Knowing that you can learn and develop no matter your current situation or starting point
-- Accepting that obstacles and challenges are part of the learning process and ~~almost~~ any project
-- Viewing your efforts toward something as a valuable contribution to your desired goals
-- Receiving feedback from yourself and others to enable personal growth and accomplishment
-
-#### How Do I Keep a Growth Mindset
-
-1. Remind myself to focus on the bigger picture, don't let small details stop me in my tracks
-2. Recognize that while true perfection is rarely attainable, striving for it is a worthy endeavor
-3. Create motivation from the small accomplishments while maintaining an optimistic outlook
-4. Understand that feedback, especially the critical kind, is merely a growth opportunity and not a definitive judgement of my abilities or potential
+1. [Class 1](/code-102/class-01.md)
+2. [Class 2](/code-102/class-02.md)
+3. [Class 3](/code-102/class-03.md)
+4. [Class 4](/code-102/class-04.md)
+5. [Class 5](/code-102/class-05.md)
+6. [Class 6](/code-102/class-06.md)
+7. [Class 7](/code-102/class-07.md)
+8. [Class 8](/code-102/class-08.md)
+9. [Class 9](/code-102/class-09.md)
+10. [Class 10](/code-102/class-10.md)
+11. [Class 11](/code-102/class-11.md)
+12. [Class 12](/code-102/class-12.md)
+13. [Class 13](/code-102/class-13.md)
+14. [Class 14](/code-102/class-14.md)
+15. [Class 15](/code-102/class-15.md)
 
 ## **About Me**
 
