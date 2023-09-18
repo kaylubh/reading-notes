@@ -1,6 +1,6 @@
 # HTML Basics
 
-HTML is an abbreviation for **H**yper **T**ext **M**arkup **L**anguage. HTML is a markup language used to define the structure of content, most commonly in webpages. HTML is made up of elements which are markup that is wrapped around content to define it's structure, functionality, and basic appearance.
+HTML is an abbreviation for **H**yper**T**ext **M**arkup **L**anguage. HTML is a markup language used to define the structure of content, most commonly in webpages. HTML is made up of elements which are markup that is wrapped around content to define it's structure, functionality, and basic appearance.
 
 ## HTML Element
 
