@@ -11,7 +11,7 @@ This site is a collection of my notes from classes at [Code Fellows](https://www
 1. [Markdown](/code-102/class-01.md)
 2. [Terminal](/code-102/class-02.md)
 3. [Git](/code-102/class-03.md)
-4. [Class 4](/code-102/class-04.md)
+4. [HTML Basics](/code-102/class-04.md)
 5. [Class 5](/code-102/class-05.md)
 6. [Class 6](/code-102/class-06.md)
 7. [Class 7](/code-102/class-07.md)
