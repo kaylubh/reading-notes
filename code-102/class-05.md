@@ -52,7 +52,7 @@ CSS rules begin with a selector which selects, or specifies, which elements it w
 
 ### Property:Value Declarations
 
-After specifying the selector in a CSS rule and a set of curly braces `{}` to hold the declaration(s), you will use property:value pairs to declare how to style the element(s). First you specify the ***property*** followed by a colon `:` to separate it from the ***value***. Lastly, all declarations ended with a semicolon `;` to separate it from other declarations.
+After specifying the selector in a CSS rule and a set of curly braces `{}` to hold the declaration(s), you will use property:value pairs to declare how to style the element(s). First you specify the ***property*** followed by a colon `:` to separate it from the ***value***. Lastly, all declarations end with a semicolon `;` to separate it from other declarations.
 
 ### Putting It All Together
 
