@@ -14,7 +14,7 @@ An HTML element consists of three parts: the *opening tag*, the *content*, and t
 
 ## HTML Attributes
 
-Elements can also contain attributes, which are sometimes required or optional. Attributes provide additional information about the element and might be necessary for the element to function or the element might modify the content in the element. Attributes are placed in the *opening tag* of an element. In an example of the link `<a>` element, an attribute of `href` needs to be defined for it to function properly:
+Elements can also contain attributes, which are optional but sometimes required. Attributes provide additional information about the element and might be necessary for the element to function or the attribute might modify the content in the element. Attributes are placed in the *opening tag* of an element. In an example of the link `<a>` element, an attribute of `href` needs to be defined for it to function properly:
 
 ```html
 <a href="https://www.google.com">Link to Google</a>
