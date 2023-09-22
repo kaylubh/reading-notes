@@ -13,7 +13,7 @@ This site is a collection of my notes from classes at [Code Fellows](https://www
 3. [Git](/code-102/class-03.md)
 4. [HTML Basics](/code-102/class-04.md)
 5. [CSS Basics](/code-102/class-05.md)
-6. [Class 6](/code-102/class-06.md)
+6. [JavaScript Basics](/code-102/class-06.md)
 7. [Class 7](/code-102/class-07.md)
 8. [Class 8](/code-102/class-08.md)
 
