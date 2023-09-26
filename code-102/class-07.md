@@ -17,27 +17,21 @@ A function declaration, or function statement, are comprised of the name of the 
 ```js
 function myFunction(x, y){
     sum = x + y;
-    return = sum;
+    return sum;
 }
 ```
 
 ## Invoking Functions
 
-Simply defining a function does not cause the function the execute. Functions need to be invoked or called in order to execute. Functions can be invoked when they are called from other JS code, when an event happens, or automatically if self-invoked. Continuing with the example above, you could create a statement to call the function which will then cause it to execute.
+Simply defining a function does not cause the function to execute. Functions need to be invoked or called in order to execute. Functions can be invoked when they are called from other JS code, when an event happens, or automatically if self-invoked. Continuing with the example above, you could create a statement to call the function which will then cause it to execute.
 
 ```js
 function myFunction(x, y){
     sum = x + y;
-    return = sum;
+    return sum;
 }
 
 const answer = myFunction(2, 2);
 ```
 
 In this example, the function is again defined and expects to be provided with two parameters which it will add together and provide the sum of those values as its return output. The function is then called in the statement which sets the variable `answer` to the value returned by `myFunction()`.
-
-
-What is control flow?
-What is a JavaScript function?
-What does it mean to invoke - or call - a function?
-What are the parenthesis () for when you define a function?
