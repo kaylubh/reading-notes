@@ -15,7 +15,7 @@ This site is a collection of my notes from classes at [Code Fellows](https://www
 5. [CSS Basics](/code-102/class-05.md)
 6. [JavaScript Basics](/code-102/class-06.md)
 7. [JavaScript Functions](/code-102/class-07.md)
-8. [Class 8](/code-102/class-08.md)
+8. [JavaScript Expressions and Loops](/code-102/class-08.md)
 
 ### Code 201 Reading Notes
 

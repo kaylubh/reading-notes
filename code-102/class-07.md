@@ -1,6 +1,6 @@
 # JavaScript Functions
 
-JavaScripts functions are a specific block of code comprised of statements intended to accomplish a task. Functions should receive input and produce output in a way that creates correlation between the input and output. Functions are executed when the function is invoked (called).
+JavaScript functions are a specific block of code comprised of statements intended to accomplish a task. Functions should receive input and produce output in a way that creates correlation between the input and output. Functions are executed when the function is invoked (called).
 
 ## Control Flow
 
