@@ -62,3 +62,8 @@ p {
     text-align: center;
 }
 ```
+
+## References
+
+- [MDN CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)

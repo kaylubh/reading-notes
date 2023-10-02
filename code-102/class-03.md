@@ -25,3 +25,7 @@ After you have staged the files using *add* command, it is time to *commit* the 
 ### Push
 
 Lastly, once you have *added* and *committed* the changes, you need to *push* to origin. The origin is the remote repository you cloned from. To do this you use the command `git push origin main`. In this example "main" is the name of the branch being *pushed* to but would change if you were using a different branch.
+
+## References
+
+- [Udemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)

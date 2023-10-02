@@ -35,3 +35,7 @@ const answer = myFunction(2, 2);
 ```
 
 In this example, the function is again defined and expects to be provided with two parameters which it will add together and provide the sum of those values as its return output. The function is then called in the statement which sets the variable `answer` to the value returned by `myFunction()`.
+
+## References
+
+- [MDN JavaScript Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)

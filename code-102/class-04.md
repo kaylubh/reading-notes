@@ -29,3 +29,8 @@ Semantic elements are used to help define the meaning or purpose of a particular
 Many semantic elements will have no impact on the appearance or functionality of the content within it but are rather used to improve the organization and readability of the code. Semantic elements also help improve the accessability of the content for things like screen readers and are also used by search engines to help index the content.
 
 Some examples of semantic elements are `<article>`, `<footer>`, `<main>`, and `<summary>`.
+
+## References
+
+- [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [MDN HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)

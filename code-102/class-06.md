@@ -70,3 +70,7 @@ alert('Welcome ' + userName);
 ```
 
 This code would declare the variable `userName` and then use the `prompt()` function to ask the user for their name. The response from the user would be stored in the variable `userName`. Lastly it would display a welcome message to the user with the value from the `userName` variable using the `alert()` function.
+
+## References
+
+- [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

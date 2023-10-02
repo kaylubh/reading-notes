@@ -96,3 +96,9 @@ An ordered, or numbered, list is created using a number and a period `1.` before
 >1. Item 1
 >2. Item 2
 >3. Item 3
+
+## References
+
+- [Markdown Guide](https://www.markdownguide.org/getting-started/)
+- [Markdown Guide Syntax](https://www.markdownguide.org/basic-syntax/)
+- [GitHub Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

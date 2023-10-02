@@ -50,3 +50,5 @@ An argument can be added to `ls` to show the contents of a directory other than 
 ### `mkdir` and `touch` Arguments
 
 The `mkdir` and `touch` commands require an argument in order to execute successfully. You will new to specify the name, and in the case of a file you will also need to specify the file type. `mkdir new-project` will create a new directory with the name "new-project". `touch new-project/newfile.md` will create a markdown file, specified by the file extension ".md". This argument will also name the file "newfile" and create the file inside the "new-project" directory.
+
+## References
