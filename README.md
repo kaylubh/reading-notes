@@ -19,21 +19,21 @@ This site is a collection of my notes from classes at [Code Fellows](https://www
 
 ### Code 201 Reading Notes
 
-1. [Class 1](/code-102/class-01.md)
-2. [Class 2](/code-102/class-02.md)
-3. [Class 3](/code-102/class-03.md)
-4. [Class 4](/code-102/class-04.md)
-5. [Class 5](/code-102/class-05.md)
-6. [Class 6](/code-102/class-06.md)
-7. [Class 7](/code-102/class-07.md)
-8. [Class 8](/code-102/class-08.md)
-9. [Class 9](/code-102/class-09.md)
-10. [Class 10](/code-102/class-10.md)
-11. [Class 11](/code-102/class-11.md)
-12. [Class 12](/code-102/class-12.md)
-13. [Class 13](/code-102/class-13.md)
-14. [Class 14](/code-102/class-14.md)
-15. [Class 15](/code-102/class-15.md)
+1. [Class 1](/code-201/class-01.md)
+2. [Class 2](/code-201/class-02.md)
+3. [Class 3](/code-201/class-03.md)
+4. [Class 4](/code-201/class-04.md)
+5. [Class 5](/code-201/class-05.md)
+6. [Class 6](/code-201/class-06.md)
+7. [Class 7](/code-201/class-07.md)
+8. [Class 8](/code-201/class-08.md)
+9. [Class 9](/code-201/class-09.md)
+10. [Class 10](/code-201/class-10.md)
+11. [Class 11](/code-201/class-11.md)
+12. [Class 12](/code-201/class-12.md)
+13. [Class 13](/code-201/class-13.md)
+14. [Class 14](/code-201/class-14.md)
+15. [Class 15](/code-201/class-15.md)
 
 ### Professional Development
 
