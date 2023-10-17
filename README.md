@@ -55,4 +55,4 @@ Find me on GitHub [@kaylubh](https://github.com/kaylubh)
 
 ### Contact Info
 
-![The GitHub Invertocat logo](/images/github-mark.png) [GitHub](https://github.com/kaylubh) | [LinkedIn](https://www.linkedin.com/in/calebhemphill/)
+[GitHub](https://github.com/kaylubh) | [LinkedIn](https://www.linkedin.com/in/calebhemphill/)
