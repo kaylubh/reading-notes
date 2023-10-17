@@ -2,11 +2,9 @@
 
 This site is a collection of my notes from classes at [Code Fellows](https://www.codefellows.org/) for reference.
 
-[Code 102](#code-102-reading-notes) | [Code 201](#code-201-reading-notes) | [Professional Development](#professional-development) | [About Me](#about-me)
+[Code 102 - Intro](#code-102---intro-to-software-development) | [Code 201 - Foundations](#code-201---foundations-of-software-development) | [Code 301 - Intermediate](#code-301---intermediate-software-development) | [Code 401 - Advanced](#code-401---advanced-software-development) | [Professional Development](#professional-development) | [About Me](#about-me)
 
-## Contents
-
-### Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 1. [Markdown](/code-102/class-01.md)
 2. [Terminal](/code-102/class-02.md)
@@ -17,7 +15,7 @@ This site is a collection of my notes from classes at [Code Fellows](https://www
 7. [JavaScript Functions](/code-102/class-07.md)
 8. [JavaScript Expressions and Loops](/code-102/class-08.md)
 
-### Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 1. [Class 1](/code-201/class-01.md)
 2. [Class 2](/code-201/class-02.md)
@@ -35,7 +33,11 @@ This site is a collection of my notes from classes at [Code Fellows](https://www
 14. [Class 14](/code-201/class-14.md)
 15. [Class 15](/code-201/class-15.md)
 
-### Professional Development
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
+
+## Professional Development
 
 1. [Growth Mindset](/professional-development/growth-mindset.md)
 
@@ -45,7 +47,7 @@ This site is a collection of my notes from classes at [Code Fellows](https://www
 
 ### Bio
 
-Welcome to my little notes page! I live in the Raleigh, North Carolina area or you may also know the greater metropolitan area as the Research Triangle Park (RTP). I'm currently employed in the retail industry while I work towards a long held passion for web and software development as a student at [Code Fellows](https://www.codefellows.org/) and a little self-study. I'm looking forward to furthering my learning and applying my newfound skills in a position with which I can use the infinite potential of computing to leave a positive impact on humanity.
+Welcome to my little notes page! I live in the Raleigh, North Carolina area or you may also know the greater metropolitan area as the Research Triangle Park (RTP). I'm currently employed in the retail industry while I work towards a long held passion for web and software development as a student at [Code Fellows](https://www.codefellows.org/). I'm looking forward to furthering my learning and applying my newfound skills in a position with which I can use the infinite potential of computing to leave a positive impact on humanity.
 
 ### Projects
 
@@ -53,4 +55,4 @@ Find me on GitHub [@kaylubh](https://github.com/kaylubh)
 
 ### Contact Info
 
-[GitHub](https://github.com/kaylubh)
+[GitHub](https://github.com/kaylubh) | [LinkedIn](https://www.linkedin.com/in/calebhemphill/)
