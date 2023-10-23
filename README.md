@@ -17,7 +17,7 @@ This site is a collection of my notes from classes at [Code Fellows](https://www
 
 ## Code 201 - Foundations of Software Development
 
-1. [Class 1](/code-201/class-01.md)
+1. [Readings Overview](/code-201/class-01.md)
 2. [Class 2](/code-201/class-02.md)
 3. [Class 3](/code-201/class-03.md)
 4. [Class 4](/code-201/class-04.md)
