@@ -19,7 +19,7 @@ This site is a collection of my notes from classes at [Code Fellows](https://www
 
 1. [Readings Overview](/code-201/class-01.md)
 2. [Basics of HTML, CSS & JS](/code-201/class-02.md)
-3. [Class 3](/code-201/class-03.md)
+3. [HTML Lists, Control Flow with JS, and the CSS Box Model](/code-201/class-03.md)
 4. [Class 4](/code-201/class-04.md)
 5. [Class 5](/code-201/class-05.md)
 6. [Class 6](/code-201/class-06.md)
