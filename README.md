@@ -26,7 +26,7 @@ This site is a collection of my notes from classes at [Code Fellows](https://www
 7. [Object-Oriented Programming, HTML Tables](/code-201/class-07.md)
 8. [CSS Layout](/code-201/class-08.md)
 9. [Forms and JS Events](/code-201/class-09.md)
-10. [Class 10](/code-201/class-10.md)
+10. [Debugging](/code-201/class-10.md)
 11. [Class 11](/code-201/class-11.md)
 12. [Class 12](/code-201/class-12.md)
 13. [Class 13](/code-201/class-13.md)
