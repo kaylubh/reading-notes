@@ -28,7 +28,7 @@ This site is a collection of my notes from classes at [Code Fellows](https://www
 9. [Forms and JS Events](/code-201/class-09.md)
 10. [Debugging](/code-201/class-10.md)
 11. [Audio, Video, Images](/code-201/class-11.md)
-12. [Class 12](/code-201/class-12.md)
+12. [Chart.js, Canvas](/code-201/class-12.md)
 13. [Class 13](/code-201/class-13.md)
 14. [Class 14](/code-201/class-14.md)
 15. [Class 15](/code-201/class-15.md)
