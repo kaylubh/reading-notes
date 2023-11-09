@@ -31,7 +31,7 @@ This site is a collection of my notes from classes at [Code Fellows](https://www
 12. [Chart.js, Canvas](/code-201/class-12.md)
 13. [Local Storage](/code-201/class-13.md)
 14. [Class 14](/code-201/class-14.md)
-15. [Class 15](/code-201/class-15.md)
+15. [Psychological Safety](/code-201/class-15.md)
 
 ## Code 301 - Intermediate Software Development
 
