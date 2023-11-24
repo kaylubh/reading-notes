@@ -2,7 +2,7 @@
 
 This site is a collection of my notes from classes at [Code Fellows](https://www.codefellows.org/) for reference.
 
-[Code 102](reading-notes/#code-102---intro-to-software-development) | [Code 201](reading-notes/#code-201---foundations-of-software-development) | [Code 301](reading-notes/#code-301---intermediate-software-development) | [Code 401](reading-notes/#code-401---advanced-software-development) | [Professional Development](reading-notes/#professional-development) | [About Me](/#about-me)
+[Code 102](#code-102---intro-to-software-development) | [Code 201](#code-201---foundations-of-software-development) | [Code 301](#code-301---intermediate-software-development) | [Code 401](#code-401---advanced-software-development) | [Professional Development](#professional-development) | [About Me](#about-me)
 
 ## Code 102 - Intro to Software Development :floppy_disk:
 
