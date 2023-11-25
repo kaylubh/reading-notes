@@ -1,10 +1,10 @@
-# ***Reading Notes*** :notebook_with_decorative_cover:
+# ***Reading Notes***
 
-This site is a collection of my notes from classes at [Code Fellows](https://www.codefellows.org/) for reference.
+A collection of my notes from classes at [Code Fellows](https://www.codefellows.org/) for reference.
 
 [Code 102](#code-102---intro-to-software-development) | [Code 201](#code-201---foundations-of-software-development) | [Code 301](#code-301---intermediate-software-development) | [Code 401](#code-401---advanced-software-development) | [Professional Development](#professional-development) | [About Me](#about-me)
 
-## Code 102 - Intro to Software Development :floppy_disk:
+## Code 102 - Intro to Software Development
 
 1. [Markdown](/code-102/class-01.md)
 2. [Terminal](/code-102/class-02.md)
@@ -15,7 +15,7 @@ This site is a collection of my notes from classes at [Code Fellows](https://www
 7. [JavaScript Functions](/code-102/class-07.md)
 8. [JavaScript Expressions and Loops](/code-102/class-08.md)
 
-## Code 201 - Foundations of Software Development :cd:
+## Code 201 - Foundations of Software Development
 
 1. [Readings Overview](/code-201/class-01.md)
 2. [Basics of HTML, CSS & JS](/code-201/class-02.md)
@@ -33,7 +33,7 @@ This site is a collection of my notes from classes at [Code Fellows](https://www
 14. [CSS Transitions, Transforms, and Animations](/code-201/class-14.md)
 15. [Psychological Safety](/code-201/class-15.md)
 
-## Code 301 - Intermediate Software Development :computer:
+## Code 301 - Intermediate Software Development
 
 1. [Class 01](/code-301/class-01.md)
 2. [Class 02](/code-301/class-02.md)
@@ -51,23 +51,23 @@ This site is a collection of my notes from classes at [Code Fellows](https://www
 14. [Class 14](/code-301/class-14.md)
 15. [Class 15](/code-301/class-15.md)
 
-## Code 401 - Advanced Software Development :desktop_computer:
+## Code 401 - Advanced Software Development
 
-## Professional Development :briefcase:
+## Professional Development
 
 1. [Growth Mindset](/professional-development/growth-mindset.md)
 
-## **About Me** :book:
+## **About Me**
 
-### **Caleb Hemphill** (*He/Him*) :technologist:
+### **Caleb Hemphill** (*He/Him*)
 
 Welcome to my little notes page! I live in the Raleigh, North Carolina area or you may also know the greater metropolitan area as Raleigh-Durham or the Research Triangle Park (RTP). I'm currently employed in the retail industry while I work towards a long held passion for web and software development as a student at [Code Fellows](https://www.codefellows.org/). I'm looking forward to furthering my learning and applying my newfound skills in a position with which I can use the infinite potential of computing to leave a positive impact on humanity.
 
-### Contact Me :email:
+### Contact Me
 
 [GitHub](https://github.com/kaylubh) | [LinkedIn](https://www.linkedin.com/in/calebhemphill/)
 
-### Projects :bookmark_tabs:
+### Projects
 
 #### *Tea Explorer*
 
