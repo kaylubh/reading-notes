@@ -35,7 +35,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 
 ## Code 301 - Intermediate Software Development
 
-1. [Class 01](/code-301/class-01.md)
+1. [Introduction to React and Components](/code-301/class-01.md)
 2. [Class 02](/code-301/class-02.md)
 3. [Class 03](/code-301/class-03.md)
 4. [Class 04](/code-301/class-04.md)
