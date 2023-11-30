@@ -38,7 +38,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 1. [Introduction to React and Components](/code-301/class-01.md)
 2. [React: State and Props](/code-301/class-02.md)
 3. [React: Passing Functions as Props](/code-301/class-03.md)
-4. [Class 04](/code-301/class-04.md)
+4. [React and Forms](/code-301/class-04.md)
 5. [Class 05](/code-301/class-05.md)
 6. [Class 06](/code-301/class-06.md)
 7. [Class 07](/code-301/class-07.md)
