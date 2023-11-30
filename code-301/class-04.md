@@ -33,3 +33,13 @@
     ```javascript
     x===y ? console.log(true) : console.log(false);
     ```
+
+## Things I want to know more about
+
+- Common/best practices for React controlled forms
+- Differences between the `if` conditional statement and the ternary operator
+
+## References
+
+- [Robin Wieruch: How to use Forms in React](https://www.robinwieruch.de/react-form/)
+- [Medium: JavaScript — The Conditional (Ternary) Operator Explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
