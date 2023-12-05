@@ -41,7 +41,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 4. [React and Forms](/code-301/class-04.md)
 5. [React: Putting it All Together](/code-301/class-05.md)
 6. [REST](/code-301/class-06.md)
-7. [Class 07](/code-301/class-07.md)
+7. [Node.js](/code-301/class-07.md)
 8. [Class 08](/code-301/class-08.md)
 9. [Class 09](/code-301/class-09.md)
 10. [Class 10](/code-301/class-10.md)
