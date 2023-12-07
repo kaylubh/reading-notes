@@ -43,7 +43,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 6. [REST](/code-301/class-06.md)
 7. [Node.js](/code-301/class-07.md)
 8. [APIs](/code-301/class-08.md)
-9. [Class 09](/code-301/class-09.md)
+9. [Functional Programming](/code-301/class-09.md)
 10. [Class 10](/code-301/class-10.md)
 11. [Class 11](/code-301/class-11.md)
 12. [Class 12](/code-301/class-12.md)
