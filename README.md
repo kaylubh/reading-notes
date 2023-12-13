@@ -47,7 +47,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 10. [In Memory Storage](/code-301/class-10.md)
 11. [MongoDB and Mongoose](/code-301/class-11.md)
 12. [CRUD](/code-301/class-12.md)
-13. [Class 13](/code-301/class-13.md)
+13. [More CRUD](/code-301/class-13.md)
 14. [Class 14](/code-301/class-14.md)
 15. [Class 15](/code-301/class-15.md)
 
