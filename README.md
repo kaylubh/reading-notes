@@ -48,7 +48,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 11. [MongoDB and Mongoose](/code-301/class-11.md)
 12. [CRUD](/code-301/class-12.md)
 13. [More CRUD](/code-301/class-13.md)
-14. [Class 14](/code-301/class-14.md)
+14. [Diversity & Inclusion in the Tech Industry](/code-301/class-14.md)
 15. [Class 15](/code-301/class-15.md)
 
 ## Code 401 - Advanced Software Development
