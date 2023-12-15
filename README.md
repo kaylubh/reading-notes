@@ -49,7 +49,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 12. [CRUD](/code-301/class-12.md)
 13. [More CRUD](/code-301/class-13.md)
 14. [Diversity & Inclusion in the Tech Industry](/code-301/class-14.md)
-15. [Class 15](/code-301/class-15.md)
+15. [Authentication](/code-301/class-15.md)
 
 ## Code 401 - Advanced Software Development
 
