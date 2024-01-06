@@ -53,6 +53,11 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 
 ## Code 401 - Advanced Software Development
 
+## Miscellaneous
+
+1. [Prompt Engineering](/miscellaneous/prompt-engineering.md)
+1. [Linux Command Line](/miscellaneous/linux-command-line.md)
+
 ## Professional Development
 
 1. [Growth Mindset](/professional-development/growth-mindset.md)
