@@ -57,6 +57,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 
 1. [Prompt Engineering](/miscellaneous/prompt-engineering.md)
 1. [Linux Command Line](/miscellaneous/linux-command-line.md)
+1. [Introduction to SQL](/miscellaneous/intro-to-sql.md)
 
 ## Professional Development
 
