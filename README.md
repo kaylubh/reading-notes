@@ -53,6 +53,8 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 
 ## Code 401 - Advanced Software Development
 
+1. [Intro to Python](/code-401/class-01.md)
+
 ## Miscellaneous
 
 1. [Prompt Engineering](/miscellaneous/prompt-engineering.md)
