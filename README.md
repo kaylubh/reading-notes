@@ -62,6 +62,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 ## Professional Development
 
 1. [Growth Mindset](/professional-development/growth-mindset.md)
+1. [Mindset Reminders](/professional-development/mindset-reminders.md)
 
 ## **About Me**
 
