@@ -55,6 +55,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 
 1. [Intro to Python](/code-401/class-01.md)
 1. [Testing and Modules](/code-401/class-02.md)
+1. [FileIO & Exceptions](/code-401/class-03.md)
 
 ## Miscellaneous
 
