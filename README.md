@@ -59,6 +59,8 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 1. [Classes and Recursion](/code-401/class-04.md)
 1. [Linked Lists](/code-401/class-05.md)
 1. [Python Random Module and Testing](/code-401/class-06.md)
+1. [](/code-401/class-07.md)
+1. [Python List Comprehensions and Decorators](/code-401/class-08.md)
 
 ## Miscellaneous
 
