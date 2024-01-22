@@ -62,7 +62,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 1. [](/code-401/class-07.md)
 1. [Python List Comprehensions and Decorators](/code-401/class-08.md)
 1.
-1. [Stacks and Queues](/code-401/class-09.md)
+1. [Stacks and Queues](/code-401/class-10.md)
 1. [Data Analysis](/code-401/class-11.md)
 
 ## Miscellaneous
