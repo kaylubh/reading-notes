@@ -64,6 +64,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 1.
 1. [Stacks and Queues](/code-401/class-10.md)
 1. [Data Analysis: NumPy](/code-401/class-11.md)
+1. [Data Analysis: Pandas](/code-401/class-12.md)
 
 ## Miscellaneous
 
