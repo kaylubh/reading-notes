@@ -61,11 +61,12 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 1. [Python Random Module and Testing](/code-401/class-06.md)
 1. [](/code-401/class-07.md)
 1. [Python List Comprehensions and Decorators](/code-401/class-08.md)
-1.
+1. []()
 1. [Stacks and Queues](/code-401/class-10.md)
 1. [Data Analysis: NumPy](/code-401/class-11.md)
 1. [Data Analysis: Pandas](/code-401/class-12.md)
 1. [Linear Regressions](/code-401/class-13.md)
+1. [Data Visualization](/code-401/class-14.md)
 
 ## Miscellaneous
 
