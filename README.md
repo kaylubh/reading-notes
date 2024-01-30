@@ -67,6 +67,9 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 1. [Data Analysis: Pandas](/code-401/class-12.md)
 1. [Linear Regressions](/code-401/class-13.md)
 1. [Data Visualization](/code-401/class-14.md)
+1. [Trees](/code-401/class-15.md)
+1. [Serverless Functions](/code-401/class-16.md)
+1. [Web Scraping](/code-401/class-17.md)
 
 ## Miscellaneous
 
