@@ -70,6 +70,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 1. [Trees](/code-401/class-15.md)
 1. [Serverless Functions](/code-401/class-16.md)
 1. [Web Scraping](/code-401/class-17.md)
+1. [Cryptography](/code-401/class-18.md)
 
 ## Miscellaneous
 
