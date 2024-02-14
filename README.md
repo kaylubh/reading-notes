@@ -73,6 +73,8 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 1. [Cryptography](/code-401/class-18.md)
 1. [Automation](/code-401/class-19.md)
 1. [Intro to Django](/code-401/class-26.md)
+1. [Placeholder](/code-401/class-27.md)
+1. [Django CRUD and Forms](/code-401/class-28.md)
 
 ## Miscellaneous
 
