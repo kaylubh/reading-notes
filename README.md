@@ -75,6 +75,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 1. [Intro to Django](/code-401/class-26.md)
 1. [Placeholder](/code-401/class-27.md)
 1. [Django CRUD and Forms](/code-401/class-28.md)
+1. [Hash Tables](/code-401/class-30.md)
 
 ## Miscellaneous
 
