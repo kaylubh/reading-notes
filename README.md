@@ -78,6 +78,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 1. [Hash Tables](/code-401/class-30.md)
 1. [Django REST Framework & Docker](/code-401/class-31.md)
 1. [Permissions & Postgresql](/code-401/class-32.md)
+1. [Authentication & Production Server](/code-401/class-33.md)
 
 ## Miscellaneous
 
