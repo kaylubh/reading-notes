@@ -80,6 +80,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 1. [Permissions & Postgresql](/code-401/class-32.md)
 1. [Authentication & Production Server](/code-401/class-33.md)
 1. [API Deployment](/code-401/class-34.md)
+1. [Graphs](/code-401/class-35.md)
 
 ## Miscellaneous
 
@@ -104,10 +105,10 @@ Welcome to my little notes page! I live in the Raleigh, North Carolina area or y
 
 [GitHub](https://github.com/kaylubh) | [LinkedIn](https://www.linkedin.com/in/calebhemphill/)
 
-### Projects
+<!-- ### Projects
 
 #### *Tea Explorer*
 
 An interactive website concept to provide a centralized source of information for teas. Built with classmates while attending Code Fellows to demonstrate a foundational understanding of HTML, CSS, and JavaScript in web development.
 
-[Deployed Site](https://team-quicm.github.io/Tea-Explorer/) | [GitHub Repository](https://github.com/Team-QUICM/Tea-Explorer)
+[Deployed Site](https://team-quicm.github.io/Tea-Explorer/) | [GitHub Repository](https://github.com/Team-QUICM/Tea-Explorer) -->
