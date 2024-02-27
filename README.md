@@ -81,6 +81,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 1. [Authentication & Production Server](/code-401/class-33.md)
 1. [API Deployment](/code-401/class-34.md)
 1. [Graphs](/code-401/class-35.md)
+1. [Next.js and Tailwind CSS Intro](/code-401/class-37.md)
 
 ## Miscellaneous
 
