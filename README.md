@@ -83,6 +83,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 1. [Graphs](/code-401/class-35.md)
 1. [Next.js and Tailwind CSS Intro](/code-401/class-37.md)
 1. [React Review](/code-401/class-38.md)
+1. [React Context](/code-401/class-39.md)
 
 ## Miscellaneous
 
