@@ -85,6 +85,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 1. [React Review](/code-401/class-38.md)
 1. [React Context](/code-401/class-39.md)
 1. [Next.js Routing and Deployment](/code-401/class-41.md)
+1. [Pythonisms](/code-401/class-42.md)
 
 ## Miscellaneous
 
