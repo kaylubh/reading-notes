@@ -99,6 +99,7 @@ A collection of my notes from classes at [Code Fellows](https://www.codefellows.
 
 1. [Growth Mindset](/professional-development/growth-mindset.md)
 1. [Mindset Reminders](/professional-development/mindset-reminders.md)
+1. [Ethics in Tech](/professional-development/ethics-in-tech.md)
 
 ## **About Me**
 
